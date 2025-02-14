@@ -19,7 +19,7 @@ Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linke
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **Android based projects**
 
-- 💬 Ask me about **Html, CSS, JavaScript, Kotlin, xml, Retrofit2**
+- 💬 Ask me about **Html, CSS, JavaScript, Kotlin, AndroidStudio, firebase**
 
 - 📧 How to reach me? **Connect to me via Email [Raqhib Ataillah](mailto:raqhib.ataillah@gmail.com)**
 
